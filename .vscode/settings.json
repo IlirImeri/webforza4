@@ -1,0 +1,22 @@
+{
+  "editor.tabSize": 4,
+  "editor.insertSpaces": true,
+  "git.autofetch": true,
+  "editor.formatOnSave": true,
+  "eslint.alwaysShowStatus": true,
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascripreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}

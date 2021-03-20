@@ -1,0 +1,15 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "mikestead.dotenv",
+    "eg2.vscode-npm-script",
+    "visualstudioexptteam.vscodeintellicode",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "formulahendry.auto-close-tag",
+    "steoates.autoimport",
+    "formulahendry.auto-rename-tag",
+    "mhutchie.git-graph"
+  ]
+}
