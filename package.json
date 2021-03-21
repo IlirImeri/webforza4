@@ -15,7 +15,7 @@
     "format": "prettier --write \"**/*.{js,jsx,json,md}\""
   },
   "keywords": [],
-  "author": "Marco Da Re; Andrea Gentile",
+  "author": "Marco Da Re; Andrea Gentile; Ilir Imeri",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
